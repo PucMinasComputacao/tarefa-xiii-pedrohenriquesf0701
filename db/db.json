@@ -1,0 +1,227 @@
+{
+  "lutadores": [
+    {
+      "id": 1,
+      "nome": "Ilia Topuria",
+      "apelido": "El Matador",
+      "categoria": "Peso-Pena",
+      "origem": "Espanha / Geórgia",
+      "descricaoCurta": "Campeão peso-pena do UFC. Invicto nas MMA profissionais, nocauteou Alexander Volkanovski para conquistar o cinturão.",
+      "descricaoCompleta": "Ilia Topuria é um dos lutadores mais empolgantes da atualidade no UFC. Nascido na Geórgia e criado na Espanha, El Matador acumulou um cartel invicto até se tornar campeão peso-pena ao nocautear o lendário Alexander Volkanovski no UFC 298, em fevereiro de 2024. Com um estilo explosivo de boxe e um jogo de finalização perigoso, Topuria rapidamente se tornou um dos rostos mais populares do esporte.",
+      "altura": "1,70m",
+      "alcance": "173cm",
+      "cartel": "15-0-0",
+      "destaque": true,
+      "imagem": "img/img/imageilia.png",
+      "tags": ["campeão", "invicto", "peso-pena", "boxe", "finalizador"],
+      "fotos": [
+        { "titulo": "Topuria no boxe", "imagem": "img/img/topuriaboxe.png" },
+        { "titulo": "Topuria em ação", "imagem": "img/img/topuriaemacao.png" },
+        { "titulo": "Cinturão Topuria", "imagem": "img/img/cinturaotopuria.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Charles Oliveira",
+      "apelido": "Do Bronx",
+      "categoria": "Peso-Leve",
+      "origem": "Brasil",
+      "descricaoCurta": "Ex-campeão peso-leve do UFC e maior finalizador da história da organização, com mais de 20 finalizações.",
+      "descricaoCompleta": "Charles 'Do Bronx' Oliveira é um lutador brasileiro de MMA amplamente reconhecido como o maior finalizador da história do UFC. Natural de Guarujá, São Paulo, Charles superou uma infância difícil para se tornar um dos melhores atletas do mundo. Ele conquistou o cinturão peso-leve em 2021 ao finalizar Michael Chandler e defendeu o título múltiplas vezes. Seu jiu-jítsu de elite combinado com um boxe cada vez mais aprimorado o torna extremamente perigoso.",
+      "altura": "1,78m",
+      "alcance": "188cm",
+      "cartel": "34-9-0",
+      "destaque": true,
+      "imagem": "img/img/imagecharles.png",
+      "tags": ["brasil", "finalizador", "jiu-jitsu", "peso-leve", "ex-campeão"],
+      "fotos": [
+        { "titulo": "Charles no jiu-jítsu", "imagem": "img/img/chalesjiu.png" },
+        { "titulo": "Charles no octógono", "imagem": "img/img/charlesoctogono.png" },
+        { "titulo": "Charles finalizando", "imagem": "img/img/charlesfinalizacao.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Islam Makhachev",
+      "apelido": "The Dagestani",
+      "categoria": "Peso-Leve",
+      "origem": "Rússia",
+      "descricaoCurta": "Atual campeão peso-leve do UFC e número 1 do ranking libra por libra. Discípulo de Khabib Nurmagomedov.",
+      "descricaoCompleta": "Islam Makhachev é considerado por muitos o melhor lutador do mundo atualmente. Treinado desde jovem ao lado de Khabib Nurmagomedov no Daguestão, Islam herdou o estilo sufocante de wrestling e grappling que tornou seu mentor famoso. Ele conquistou o cinturão peso-leve do UFC ao finalizar Charles Oliveira no UFC 280 e vem dominando todas as suas lutas com maestria técnica impressionante.",
+      "altura": "1,75m",
+      "alcance": "178cm",
+      "cartel": "26-1-0",
+      "destaque": false,
+      "imagem": "img/img/imageislam.png",
+      "tags": ["campeão", "daguestão", "wrestling", "grappling", "libra-por-libra"],
+      "fotos": [
+        { "titulo": "Islam campeão", "imagem": "img/img/islamcampeao.png" },
+        { "titulo": "Islam no tapete", "imagem": "img/img/islamtapete.png" },
+        { "titulo": "Makachev wrestling", "imagem": "img/img/makachevwrestling.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Alex Pereira",
+      "apelido": "Poatan",
+      "categoria": "Peso-Meio-Pesado",
+      "origem": "Brasil",
+      "descricaoCurta": "Campeão peso-meio-pesado do UFC e ex-campeão mundial de kickboxing. Possui o nocaute mais devastador do esporte.",
+      "descricaoCompleta": "Alex Pereira, o 'Poatan', é um fenômeno do MMA. Antes de migrar para as artes marciais mistas, já era multicampeão mundial de kickboxing e muay thai. No UFC, escalou rapidamente as divisões: conquistou o cinturão dos médios ao nocautear Israel Adesanya e depois subiu para o peso-meio-pesado e conquistou mais um cinturão, tornando-se bicampeão do UFC. Sua potência de nocaute é considerada a mais assustadora do esporte.",
+      "altura": "1,93m",
+      "alcance": "203cm",
+      "cartel": "12-2-0",
+      "destaque": true,
+      "imagem": "img/img/imagealex.png",
+      "tags": ["brasil", "campeão", "kickboxing", "muay-thai", "nocaute", "bicampeão"],
+      "fotos": [
+        { "titulo": "Alex no muay thai", "imagem": "img/img/alexmuaythai.png" },
+        { "titulo": "Nocaute Alex", "imagem": "img/img/nocautealex.png" },
+        { "titulo": "Cinturão Alex", "imagem": "img/img/cinturaoalex.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Jon Jones",
+      "apelido": "Bones",
+      "categoria": "Peso-Pesado",
+      "origem": "EUA",
+      "descricaoCurta": "Considerado por muitos o maior lutador de todos os tempos. Campeão dos pesados e ex-campeão invicto dos meio-pesados.",
+      "descricaoCompleta": "Jon 'Bones' Jones é amplamente debatido como o GOAT do MMA. Com um reinado dominante na divisão meio-pesada, Jones derrotou todos os desafiantes que encontrou, incluindo Daniel Cormier, Alexander Gustafsson e Glover Teixeira. Após anos de hiato, voltou ao octógono na divisão pesada e conquistou o cinturão ao nocautear Ciryl Gane. Sua envergadura, inteligência de luta e habilidade técnica excepcionais fazem dele um competidor único na história do esporte.",
+      "altura": "1,93m",
+      "alcance": "215cm",
+      "cartel": "27-1-0 (1 NC)",
+      "destaque": false,
+      "imagem": "img/img/imagejonjones.png",
+      "tags": ["goat", "peso-pesado", "peso-meio-pesado", "eua", "dominante"],
+      "fotos": [
+        { "titulo": "GOAT dominando", "imagem": "img/img/goatdominando.png" },
+        { "titulo": "Bones campeão", "imagem": "img/img/jonjonescampeao.png" },
+        { "titulo": "Bones em ação", "imagem": "img/img/bonesemacao.png" }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Sean O'Malley",
+      "apelido": "Sugar",
+      "categoria": "Peso-Galo",
+      "origem": "EUA",
+      "descricaoCurta": "Ex-campeão peso-galo do UFC. Estilo único de boxe, carisma explosivo e um dos maiores nomes do esporte hoje.",
+      "descricaoCompleta": "Sean 'Sugar' O'Malley é uma das personalidades mais marcantes do UFC atual. Com um estilo de boxe completamente fora do convencional, footwork impecável e confiança inabalável, Sugar conquistou o cinturão peso-galo ao nocautear Aljamain Sterling no UFC 292. Seu carisma, cabelos coloridos e personalidade provocadora o tornaram um dos atletas mais seguidos do esporte.",
+      "altura": "1,80m",
+      "alcance": "180cm",
+      "cartel": "18-2-0",
+      "destaque": true,
+      "imagem": "img/img/imagesean.png",
+      "tags": ["peso-galo", "boxe", "estilo", "carisma", "ex-campeão"],
+      "fotos": [
+        { "titulo": "Sugar no ringue", "imagem": "img/img/seannoringue.png" },
+        { "titulo": "Boxe estiloso", "imagem": "img/img/seanomalleyboxeestiloso.png" },
+        { "titulo": "Sean campeão", "imagem": "img/img/seancampeao.png" }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Conor McGregor",
+      "apelido": "The Notorious",
+      "categoria": "Peso-Leve",
+      "origem": "Irlanda",
+      "descricaoCurta": "Ex-bicampeão simultâneo do UFC e lutador mais famoso da história do MMA. Ícone global do esporte.",
+      "descricaoCompleta": "Conor McGregor é o lutador mais famoso da história do MMA. O irlandês fez história ao se tornar o primeiro bicampeão simultâneo do UFC, conquistando os cinturões peso-pena e peso-leve. Fora do octógono, McGregor é um fenômeno de marketing e um dos atletas mais bem pagos do mundo. Seu estilo agressivo de boxe, trash talk afiado e personalidade magnética o tornaram um verdadeiro ícone pop.",
+      "altura": "1,75m",
+      "alcance": "188cm",
+      "cartel": "22-6-0",
+      "destaque": true,
+      "imagem": "img/img/mcgregor.png",
+      "tags": ["irlanda", "bicampeão", "boxe", "ícone", "peso-pena", "peso-leve"],
+      "fotos": [
+        { "titulo": "McGregor nocaute", "imagem": "img/img/mcgregor nocaute.png" },
+        { "titulo": "McGregor bicampeão", "imagem": "img/img/mcgregorbicampeao.png" },
+        { "titulo": "McGregor pose", "imagem": "img/img/mcgregorpose.png" }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Khabib Nurmagomedov",
+      "apelido": "The Eagle",
+      "categoria": "Peso-Leve",
+      "origem": "Rússia",
+      "descricaoCurta": "Aposentado invicto, ex-campeão peso-leve do UFC. Considerado o maior do esporte por muitos especialistas.",
+      "descricaoCompleta": "Khabib Nurmagomedov se aposentou invicto com um cartel de 29-0, deixando um legado impossível de ignorar. O 'Eagle' dominou completamente a divisão peso-leve com seu wrestling brutal e pressão incansável. Ele derrotou os maiores nomes da divisão, incluindo Conor McGregor, Dustin Poirier e Justin Gaethje. Após a morte de seu pai e treinador, Khabib optou por se aposentar, encerrando uma carreira lendária.",
+      "altura": "1,78m",
+      "alcance": "178cm",
+      "cartel": "29-0-0",
+      "destaque": false,
+      "imagem": "img/img/khabib.png",
+      "tags": ["invicto", "aposentado", "wrestling", "daguestão", "lenda", "peso-leve"],
+      "fotos": [
+        { "titulo": "Khabib dominando", "imagem": "img/img/khabibdominando.png" },
+        { "titulo": "Khabib campeão", "imagem": "img/img/khabibcampeao.png" },
+        { "titulo": "The Eagle em ação", "imagem": "img/img/theeagleemação.png" }
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Dustin Poirier",
+      "apelido": "The Diamond",
+      "categoria": "Peso-Leve",
+      "origem": "EUA",
+      "descricaoCurta": "Um dos maiores peso-leves da história do UFC. Nocauteou McGregor duas vezes e é conhecido pela sua resiliência.",
+      "descricaoCompleta": "Dustin 'The Diamond' Poirier é um dos guerreiros mais admirados do UFC. Nascido em Lafayette, Louisiana, Poirier superou uma vida difícil para chegar ao topo do esporte. Ele nocauteou Conor McGregor em dois combates consecutivos e foi o único a derrotar Khabib num confronto de exibição de muay thai. Sua generosidade fora do octógono, fundando uma instituição de caridade, é tão admirada quanto sua habilidade dentro do ringue.",
+      "altura": "1,75m",
+      "alcance": "182cm",
+      "cartel": "30-8-0",
+      "destaque": false,
+      "imagem": "img/img/dustinpoirier.png",
+      "tags": ["eua", "peso-leve", "boxe", "resiliência", "muay-thai"],
+      "fotos": [
+        { "titulo": "Diamond em ação", "imagem": "img/img/diamondemacao.png" },
+        { "titulo": "Poirier nocaute", "imagem": "img/img/poiriernocaute.png" },
+        { "titulo": "Poirier vitória", "imagem": "img/img/poiriervitoria.png" }
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Amanda Nunes",
+      "apelido": "The Lioness",
+      "categoria": "Peso-Galo Feminino",
+      "origem": "Brasil",
+      "descricaoCurta": "Ex-bicampeã simultânea do UFC no feminino. Considerada a maior lutadora de MMA de todos os tempos.",
+      "descricaoCompleta": "Amanda 'The Lioness' Nunes é a maior lutadora da história do MMA. A baiana se tornou a primeira bicampeã simultânea do UFC feminino, dominando as divisões peso-galo e peso-pena. Ela derrotou lendas como Ronda Rousey, Cris Cyborg, Valentina Shevchenko e Holly Holm. Com um cartel impressionante e um legado histórico, Amanda é amplamente considerada a GOAT do MMA feminino.",
+      "altura": "1,73m",
+      "alcance": "175cm",
+      "cartel": "22-5-0",
+      "destaque": true,
+      "imagem": "img/img/amandanunes.png",
+      "tags": ["brasil", "bicampeã", "feminino", "goat", "peso-galo", "lenda"],
+      "fotos": [
+        { "titulo": "Lioness campeã", "imagem": "img/img/lionesscampea.png" },
+        { "titulo": "Nunes nocaute", "imagem": "img/img/amandanunesnocaute.png" },
+        { "titulo": "Amanda vitória", "imagem": "img/img/amandanunesvitoria.png" }
+      ]
+    }
+  ],
+  "categorias": [
+    { "id": 1, "nome": "Peso-Palha", "limiteKg": 52.2 },
+    { "id": 2, "nome": "Peso-Mosca", "limiteKg": 56.7 },
+    { "id": 3, "nome": "Peso-Galo", "limiteKg": 61.2 },
+    { "id": 4, "nome": "Peso-Pena", "limiteKg": 65.8 },
+    { "id": 5, "nome": "Peso-Leve", "limiteKg": 70.3 },
+    { "id": 6, "nome": "Peso-Meio-Médio", "limiteKg": 77.1 },
+    { "id": 7, "nome": "Peso-Médio", "limiteKg": 83.9 },
+    { "id": 8, "nome": "Peso-Meio-Pesado", "limiteKg": 92.9 },
+    { "id": 9, "nome": "Peso-Pesado", "limiteKg": 120.2 },
+    { "id": 10, "nome": "Peso-Galo Feminino", "limiteKg": 61.2 }
+  ],
+  "comentarios": [
+    { "id": 1, "lutadorId": 1, "autor": "João", "texto": "Topuria é incrível, vai dominar por anos!", "data": "2024-03-10" },
+    { "id": 2, "lutadorId": 2, "autor": "Maria", "texto": "Do Bronx é o maior finalizador de todos!", "data": "2024-04-01" },
+    { "id": 3, "lutadorId": 4, "autor": "Carlos", "texto": "Poatan tem o nocaute mais pesado do UFC!", "data": "2024-05-15" },
+    { "id": 4, "lutadorId": 10, "autor": "Ana", "texto": "Amanda é a GOAT do feminino, sem discussão.", "data": "2024-06-20" }
+  ],
+  "favoritos": [
+    { "id": 1, "lutadorId": 1 },
+    { "id": 2, "lutadorId": 4 },
+    { "id": 3, "lutadorId": 10 }
+  ]
+}
